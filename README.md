@@ -1,0 +1,2 @@
+# sekolah
+ini web sekolah
