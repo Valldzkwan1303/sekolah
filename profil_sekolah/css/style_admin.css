@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+h2, h3 {
+  color: #002b5b;
+}
+
+input, textarea, button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  background: #002b5b;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+a {
+  color: #002b5b;
+  text-decoration: none;
+}
